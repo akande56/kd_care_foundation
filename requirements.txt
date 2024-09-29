@@ -10,6 +10,6 @@ mccabe
 packaging
 # pillow==10.4.0
 psycopg2
-sqlpars
-tzdata
+
+
 whitenoise
