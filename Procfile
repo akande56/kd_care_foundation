@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn kd_care_foundation.wsgi 
+web: gunicorn kd_care_foundation.wsgi.application
