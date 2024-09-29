@@ -10,7 +10,6 @@ mccabe
 packaging
 # pillow==10.4.0
 psycopg2
-pycodestyle
 sqlpars
 tzdata
 whitenoise
