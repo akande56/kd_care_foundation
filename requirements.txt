@@ -1,0 +1,18 @@
+asgiref
+bcrypt
+Django
+django-js-asset
+
+flake8
+gunicorn
+mccabe
+
+packaging
+# pillow==10.4.0
+psycopg2
+pycodestyle
+pyflakes
+python-decouple
+sqlpars
+tzdata
+whitenoise
