@@ -12,7 +12,6 @@ packaging
 psycopg2
 pycodestyle
 pyflakes
-python-decouple
 sqlpars
 tzdata
 whitenoise
